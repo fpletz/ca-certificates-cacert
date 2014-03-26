@@ -10,5 +10,5 @@ clean:
 
 install:
 	mkdir -p $(DESTDIR)/$(LOCALCERTSDIR); \
-	$(MAKE) -C local install LOCALCERTSDIR=$(DESTDIR)/$(LOCALCERTSDIR)
+	$(MAKE) -C cacert install LOCALCERTSDIR=$(DESTDIR)/$(LOCALCERTSDIR)
 
