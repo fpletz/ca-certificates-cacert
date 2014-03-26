@@ -1,0 +1,11 @@
+Source: ca-certificates-cacert
+Section: misc
+Priority: extra
+Maintainer: Franz Pletz <fpletz@fnordicwalking.de>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: ca-certificates-cacert
+Architecture: all
+Depends: ca-certificates (>= 20130119), ${misc:Depends}
+Description: CAcert CA certificates
