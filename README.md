@@ -14,3 +14,9 @@ This is based on the skeleton from `ca-certificates` which can be found in
 ## How to build
 
     $ dpkg-buildpackage
+
+## How to use
+
+Install the package and add the new certificates by running
+
+    $ dpkg-reconfigure ca-certificates
