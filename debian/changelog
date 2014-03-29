@@ -1,5 +1,5 @@
 ca-certificates-cacert (0.1) unstable; urgency=low
 
-  * Non-maintainer upload.
+  * Initial release.
 
- -- Franz Pletz <fpletz@fnordicwalking.de>  Thu, 27 Mar 2014 00:19:34 +0100
+ -- Franz Pletz <fpletz@fnordicwalking.de>  Sat, 29 Mar 2014 01:02:36 +0100
